@@ -16,7 +16,8 @@
 ### B: ['250@l0#pqn', '500@7#bpjl']
 ### S: []
 <br>
-Result of my code:
+
+## Result of my code:
 ```
 SUB juhb B foo 10 450
 B: ['450@10#juhb']
